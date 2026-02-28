@@ -21,3 +21,7 @@ What Drives Me
 I got into computer science because I believe software can genuinely improve people's lives — not just in a broad abstract sense, but in specific, concrete ways for specific people who need it.
 A lot of the most impactful software never gets built because the audience is too small or the problem isn't glamorous enough. That's exactly the kind of problem I want to work on. 
 I want to make software at a fair price so I can still pay the bills but not make things subscriptions because I can, one time lifetime licenses always. 
+
+
+If you want to donate for any free projects I make here is my buy me a coffee link:
+https://buymeacoffee.com/baaron11
