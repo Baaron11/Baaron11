@@ -7,6 +7,7 @@ What I'm Working On
 A free iOS app for people living with Visual Snow Syndrome — a neurological condition that causes persistent visual disturbances and gets very little attention. The app includes guided breathing, audio noise generation, vision therapy exercises, a symptom education gallery, and a private symptom log. Everything stays on device. No accounts, no tracking, completely free.
 Built with SwiftUI, AVFoundation, AVAudioEngine, and Core Image.
 View the repo →
+
 Skills
 Languages
 Swift · Python · Java · JavaScript · TypeScript
@@ -14,6 +15,8 @@ Frameworks & Tools
 SwiftUI · UIKit · AVFoundation · Core Data · React · Git · Xcode
 Concepts
 iOS development · Data structures & algorithms
+
+
 What Drives Me
 I got into computer science because I believe software can genuinely improve people's lives — not just in a broad abstract sense, but in specific, concrete ways for specific people who need it.
 A lot of the most impactful software never gets built because the audience is too small or the problem isn't glamorous enough. That's exactly the kind of problem I want to work on. 
